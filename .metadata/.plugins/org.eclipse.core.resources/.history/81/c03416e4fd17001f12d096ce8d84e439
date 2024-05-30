@@ -1,0 +1,23 @@
+package com.techlabs.test;
+
+import java.util.Scanner;
+
+import com.techlabs.model.Rectangle;
+
+public class RectangleTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input=new Scanner(System.in);
+		Rectangle rectangle1=new Rectangle();
+		System.out.println("enter the value of height:");
+		int height=input.nextInt();
+		System.out.println("enter the value of width:");
+		int width=input.nextInt();
+		int area=height*width;
+		rectangle1.displayRectangle();
+		
+
+	}
+
+}
