@@ -12,4 +12,11 @@ public class BoxWeight extends Box {
 		this.width = width;
 	}
 
+	public BoxWeight(double depth, double height, double weight, double width) {
+		super(depth, height, weight);
+		this.width = width;
+	}
+
+	
+
 }

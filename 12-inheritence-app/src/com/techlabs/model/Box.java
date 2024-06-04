@@ -2,6 +2,14 @@ package com.techlabs.model;
 
 public class Box {
 	private double depth;
+	private double height;
+	private double weight;
+	public Box(double depth, double height, double weight) {
+		super();
+		this.depth = depth;
+		this.height = height;
+		this.weight = weight;
+	}
 	public double getDepth() {
 		return depth;
 	}
@@ -20,8 +28,7 @@ public class Box {
 	public void setWeight(double weight) {
 		this.weight = weight;
 	}
-	private double height;
-	private double weight;
+	
 	
 	
 	
