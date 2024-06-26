@@ -1,8 +1,8 @@
 package com.techlabs.test;
 
-import com.techlabs.model.Audio;
-import com.techlabs.model.Playable;
-import com.techlabs.model.Video;
+import com.techlabs.model.playable.Audio;
+import com.techlabs.model.playable.Playable;
+import com.techlabs.model.playable.Video;
 
 public class PlayableTest {
 

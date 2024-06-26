@@ -1,7 +1,7 @@
 package com.techlabs.model;
 
 public class NewThread implements Runnable{
-	private Thread thread;
+	public Thread thread;
 	
 	
 
