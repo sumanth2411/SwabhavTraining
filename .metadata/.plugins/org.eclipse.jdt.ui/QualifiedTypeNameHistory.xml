@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.techlabs.model.InsurancePolicyComparator.PolicyByName"/>
-<fullyQualifiedTypeName name="com.techlabs.model.InsurancePolicyComparator"/>
-<fullyQualifiedTypeName name="com.techlabs.model.InsurancePolicyComparator.PolicyByAmount"/>
-<fullyQualifiedTypeName name="com.techlabs.model.InsurancePolicyComparator.PolicyByDate"/>
-<fullyQualifiedTypeName name="java.text.ParseException"/>
-<fullyQualifiedTypeName name="com.techlabs.model.MyThread"/>
 <fullyQualifiedTypeName name="com.techlabs.model.NewThread"/>
 <fullyQualifiedTypeName name="com.techlabs.model.Callme"/>
 <fullyQualifiedTypeName name="com.techlabs.model.Caller"/>
@@ -60,4 +54,10 @@
 <fullyQualifiedTypeName name="com.techlabs.dip.solution.model.DBLogger"/>
 <fullyQualifiedTypeName name="com.techlabs.dip.solution.model.TaxCalculator"/>
 <fullyQualifiedTypeName name="com.techlabs.dip.solution.model.FileLogger"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Shape.Shape"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Shape.Circle"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Shape.Rectangle"/>
+<fullyQualifiedTypeName name="com.techlabs.model.playable.Playable"/>
+<fullyQualifiedTypeName name="com.techlabs.model.playable.Audio"/>
+<fullyQualifiedTypeName name="com.techlabs.model.playable.Video"/>
 </qualifiedTypeNameHistroy>
