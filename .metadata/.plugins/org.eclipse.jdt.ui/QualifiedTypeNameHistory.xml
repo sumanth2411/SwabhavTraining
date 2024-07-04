@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.function.BiPredicate"/>
-<fullyQualifiedTypeName name="java.util.function.UnaryOperator"/>
-<fullyQualifiedTypeName name="java.util.function.Function"/>
-<fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
-<fullyQualifiedTypeName name="java.util.function.BiFunction"/>
 <fullyQualifiedTypeName name="com.techlabs.model.Account"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.stream.Stream"/>
@@ -60,4 +55,9 @@
 <fullyQualifiedTypeName name="com.techlabs.inventoryMangement.model.Supplier"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.techlabs.inventoryMangement.model.Transaction"/>
+<fullyQualifiedTypeName name="com.techlabs.state.model.VendingMachineContext"/>
+<fullyQualifiedTypeName name="com.techlabs.state.model.ReadyState"/>
+<fullyQualifiedTypeName name="com.techlabs.state.model.ProductSelectState"/>
+<fullyQualifiedTypeName name="com.techlabs.state.model.PaymentPendingState"/>
+<fullyQualifiedTypeName name="com.techlabs.state.model.OutOfStockState"/>
 </qualifiedTypeNameHistroy>
